@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951964969111",
+    "project_id": "geo-app-8d40e",
+    "storage_bucket": "geo-app-8d40e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951964969111:android:783b5f7bc134598dcba1d2",
+        "android_client_info": {
+          "package_name": "com.geolanka.geography_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP2wWnGl23aIjSHLUERuSe-crVfV2nqkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
